@@ -1,0 +1,8 @@
+.canvas {
+    width: 80%;
+    height: 70vh;
+    border: 2px dashed #ccc;
+    position: relative;
+    overflow: hidden;
+  }
+  
